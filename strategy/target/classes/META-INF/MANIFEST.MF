@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: strategy
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Gustavo
+Implementation-Vendor-Id: com.strategy
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/strategy/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

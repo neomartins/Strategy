@@ -1,0 +1,12 @@
+com\strategy\service\QuantidadePessoaService.class
+com\strategy\SwaggerConfig.class
+com\strategy\controller\QuantidadePessoaController.class
+com\strategy\model\Area.class
+com\strategy\model\Quadrado.class
+com\strategy\service\FiguraGeometricaServiceImpl.class
+com\strategy\model\Quadrilatero.class
+com\strategy\service\FiguraGeometricaService.class
+com\strategy\App.class
+com\strategy\model\Retangulo.class
+com\strategy\service\QuantidadePessoaServiceImpl.class
+com\strategy\service\Constantes.class
